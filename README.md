@@ -8,7 +8,7 @@ Presentación del sitio web oficial de la **Asociación Cultural Tercio de Salam
 
 La web permite conocer la asociación, consultar sus actividades y próximos eventos, recorrer el archivo histórico de participaciones y contactar con el grupo.
 
-## Captura del proyecto
+## Capturas del proyecto
 
 <p align="center">
   <a href="https://terciodesalamanca.es/">
@@ -17,6 +17,14 @@ La web permite conocer la asociación, consultar sus actividades y próximos eve
 </p>
 
 <p align="center"><em>Página de inicio en su versión de escritorio.</em></p>
+
+<p align="center">
+  <a href="https://terciodesalamanca.es/">
+    <img src="assets/inicio-movil-real.png" alt="Página de inicio del sitio web Tercio de Salamanca en un teléfono móvil" width="360">
+  </a>
+</p>
+
+<p align="center"><em>Página de inicio en un dispositivo móvil.</em></p>
 
 ## Sobre el proyecto
 
