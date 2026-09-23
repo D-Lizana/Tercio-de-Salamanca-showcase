@@ -1,10 +1,15 @@
-# Tercio de Salamanca — Showcase
+# Tercio de Salamanca — Website Showcase
+
+![Project Showcase](https://img.shields.io/badge/PROJECT-WEBSITE_SHOWCASE-660000?style=for-the-badge)
+![Live Website](https://img.shields.io/badge/STATUS-LIVE-d4b483?style=for-the-badge)
+
+> **Este repositorio es un showcase de una página web publicada.** Presenta el resultado, sus características y las tecnologías empleadas, pero no contiene el código fuente ni los recursos originales del sitio.
 
 Presentación del sitio web oficial de la **Asociación Cultural Tercio de Salamanca**, una asociación dedicada a la divulgación y recreación histórica de los siglos XVI y XVII.
 
-## Visitar el proyecto
+## Ver la página web
 
-### [terciodesalamanca.es](https://terciodesalamanca.es/)
+### 🌐 [Visitar terciodesalamanca.es](https://terciodesalamanca.es/)
 
 La web permite conocer la asociación, consultar sus actividades y próximos eventos, recorrer el archivo histórico de participaciones y contactar con el grupo.
 
@@ -64,8 +69,10 @@ El proyecto está construido como un sitio web estático, sin frameworks ni depe
 
 Proyecto publicado y en mantenimiento activo. El contenido se actualiza conforme la asociación anuncia nuevas actividades y eventos.
 
-## Código fuente y recursos
+## Acerca de este repositorio
 
-Este repositorio funciona exclusivamente como escaparate del proyecto. El código fuente, las fotografías, los documentos, los logotipos y los demás recursos del sitio web se mantienen en un repositorio privado y **no se distribuyen desde aquí**.
+Este es un repositorio de **presentación y portfolio**, no el repositorio de desarrollo de la web. Su finalidad es mostrar públicamente el proyecto terminado mediante una descripción funcional, capturas reales y un enlace a la página en producción.
+
+El código fuente, las fotografías, los documentos, los logotipos y los demás recursos originales se mantienen en un repositorio privado y **no se distribuyen desde aquí**.
 
 © 2026 Asociación Cultural Tercio de Salamanca. Todos los derechos reservados.
