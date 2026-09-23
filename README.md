@@ -8,6 +8,16 @@ Presentación del sitio web oficial de la **Asociación Cultural Tercio de Salam
 
 La web permite conocer la asociación, consultar sus actividades y próximos eventos, recorrer el archivo histórico de participaciones y contactar con el grupo.
 
+## Captura del proyecto
+
+<p align="center">
+  <a href="https://terciodesalamanca.es/">
+    <img src="assets/inicio-escritorio.png" alt="Página de inicio del sitio web Tercio de Salamanca" width="900">
+  </a>
+</p>
+
+<p align="center"><em>Página de inicio en su versión de escritorio.</em></p>
+
 ## Sobre el proyecto
 
 El objetivo del sitio es ofrecer un punto de información claro y accesible para socios, colaboradores y personas interesadas en la recreación histórica. Su diseño visual se inspira en la identidad y el periodo histórico representado por la asociación, manteniendo una navegación sencilla desde cualquier dispositivo.
